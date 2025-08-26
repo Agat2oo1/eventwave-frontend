@@ -20,8 +20,8 @@ login: admin@xyz.com, pass:123456789
 
 - **React** – UI development  
 - **Vite** – Fast dev server and bundler  
-- **Tailwind CSS** – Utility-first styling  
-- **Bootstrap** – (if used; remove if not)
+- **Tailwind CSS**
+- **Bootstrap** 
 
 
 ## 🧞 Commands
